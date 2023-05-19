@@ -1,1 +1,1 @@
-# perl-Rose-DB-Object
+This package is download from cpan.org Rose::DB::Object version 0.798. Fixed 2 test failures.
